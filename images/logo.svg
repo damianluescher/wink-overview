@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="1024" height="1024"><defs>
+<linearGradient id="b10" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#55e596"/><stop offset="1" stop-color="#19a85e"/></linearGradient>
+<linearGradient id="h10" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="rgba(255,255,255,.5)"/><stop offset=".45" stop-color="rgba(255,255,255,0)"/></linearGradient>
+<filter id="s10" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="3" stdDeviation="2.6" flood-color="#000" flood-opacity=".28"/></filter>
+<clipPath id="c10"><rect width="120" height="120" rx="28"/></clipPath></defs>
+<g clip-path="url(#c10)"><rect width="120" height="120" fill="url(#b10)"/><g filter="url(#s10)"><path d="M30 36L54 60L30 84" fill="none" stroke="#141a16" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><path d="M66 84H90" fill="none" stroke="#141a16" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<rect x="1" y="1" width="118" height="118" rx="27" fill="none" stroke="url(#h10)" stroke-width="2"/></svg>
